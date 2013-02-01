@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tvremainder</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string-array name="list_of_channel">
+        <item >TV One</item>
+        <item >Trans TV</item>
+        <item >Trans 7</item>
+    </string-array>
+
+</resources>
